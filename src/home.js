@@ -351,7 +351,7 @@ function Home() {
 					<div>Privacy</div>
 				</div>
 				<div>
-					© 2024 Nebula Digital | All Rights Reserved
+					© 2023 Nebula Digital | All Rights Reserved
 				</div>
 				</div>					
 		</>
