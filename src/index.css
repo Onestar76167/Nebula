@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+//Text Style
 .banner-text {
     font-size: clamp(2.5rem, 7vw + 0.75rem, 8.75rem);
     line-height: clamp(2.5rem, 7vw + 0.75rem, 8.75rem);
